@@ -1,0 +1,98 @@
+{
+    "func" : "major arcana", "data" : {
+        "fool" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "magician" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "high priestess" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "empress" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "emperor" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "hierophant" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "lovers" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "chariot" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "strength" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "hermit" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "wheel of fortune" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "justice" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "hanged man" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "death" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "temperance" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "devil" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "tower" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "star" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "moon" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "sun" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "judgment" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        },
+        "world" : {
+            "upright" : "new beginning",
+            "reversed" : "aimlessness"
+        }
+    },
+    "func" : "suits", "data" : {
+        "cups" : "smth",
+        "pentacles" : "smth",
+        "swords" : "smth",
+        "wands" : "smth"
+    }
+}
